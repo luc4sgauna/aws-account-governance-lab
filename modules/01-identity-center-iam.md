@@ -30,7 +30,7 @@ Implement identity controls including MFA for the root user, enabling AWS IAM Id
 ---
 
 ### Step 1.3 – Create Admin User
-- 👤 Created user
+- 👤 Created user: admin-lab
 - Skipped group assignment (handled later)
 
 ---
@@ -63,6 +63,15 @@ Implement identity controls including MFA for the root user, enabling AWS IAM Id
 
 ## 📸 Screenshots
 
+### ✅ MFA Enabled for Admin User
+
+![Admin User MFA](../screenshots/admin-user-mfa.png)
+
+---
+
+#### ✅ AdministratorAccess Permission Set
+
+![Admin Permission Set](../screenshots/admin-permission-set.png)
 
 
 ---
