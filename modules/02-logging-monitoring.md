@@ -36,7 +36,7 @@ Implement AWS CloudTrail to log management activity, secure log storage in S3, a
 ---
 
 ## 📸 Screenshots
-
+![CloudTrail trail settings](../screenshots/trail-settings.png)
 
 
 ---
