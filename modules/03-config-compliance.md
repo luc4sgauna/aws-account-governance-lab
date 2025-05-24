@@ -29,6 +29,7 @@ Enable AWS Config for continuous compliance monitoring and deploy foundational c
 
 ## 📸 Screenshots
 
+![CloudFormation Config Rules](../screenshots/cloudformation-config-rules.png)
 
 ---
 
